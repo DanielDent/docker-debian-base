@@ -5,6 +5,7 @@
       * envplate
       * s6-overlay
       * containerbuddy
+      * Docker, docker-compose, and docker-machine
       * Hashicorp tools:
         * consul
         * nomad
